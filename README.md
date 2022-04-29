@@ -2,7 +2,7 @@
 
 # 可视化
 
-![图片]()
+![图片](https://github.com/miaooo0000OOOO/Shanghai-Epidemic-Data-Visualization/blob/main/Figure_1.png?raw=true)
 
 # 数据来源
 
