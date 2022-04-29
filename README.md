@@ -4,6 +4,8 @@
 
 ![图片](https://github.com/miaooo0000OOOO/Shanghai-Epidemic-Data-Visualization/blob/main/Figure_1.png?raw=true)
 
+每日新增本土新冠肺炎确诊病例+新增无症状感染者折线图
+
 # 数据来源
 
 上海发布公众号，地址见htmllist.txt
